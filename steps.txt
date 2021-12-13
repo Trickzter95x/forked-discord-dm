@@ -1,0 +1,9 @@
+0. VPN
+0.1 Clear completed/failed.txt
+1. scrape user ids
+1.1 Copy to input/
+2. run GO app
+2.1 Join tokens to a server? 0 => Yes
+2.2 Multi Mode => 1
+2.3 ENTER
+2.4 Leave tokens from server? 1 => No
